@@ -1,2 +1,7 @@
 build/
 src/kernel/target/
+docs/bin/
+docs/include/
+docs/lib/
+docs/lib64/
+docs/pyvenv.cfg
