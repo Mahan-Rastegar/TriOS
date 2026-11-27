@@ -5,3 +5,4 @@ docs/include/
 docs/lib/
 docs/lib64/
 docs/pyvenv.cfg
+py/*
